@@ -1,0 +1,16 @@
+
+*****************6/12/2023*********************** 
+Before transaction balance amount: 0.0 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 150000 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 150000 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 150000 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 150000.0 
+withdrew amount :500.0 and New Balance Amount :149500.0 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 150000.0 
+withdrew amount :50.0 and New Balance Amount :149950.0 
+Deposit amount :20.0 and New Balance Amount :149970.0 
